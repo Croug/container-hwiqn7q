@@ -1,3 +1,15 @@
+# v0.0.3 (Tue Oct 24 2023)
+
+#### ⚠️ Pushed to `main`
+
+- test commit ([@Croug](https://github.com/Croug))
+
+#### Authors: 1
+
+- Jordan ([@Croug](https://github.com/Croug))
+
+---
+
 # v0.0.2 (Tue Oct 24 2023)
 
 #### ⚠️ Pushed to `main`
