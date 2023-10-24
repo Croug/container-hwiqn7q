@@ -1,3 +1,15 @@
+# v0.0.2 (Tue Oct 24 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Add bounce endpoint ([@Croug](https://github.com/Croug))
+
+#### Authors: 1
+
+- Jordan ([@Croug](https://github.com/Croug))
+
+---
+
 # v0.0.1 (Tue Oct 24 2023)
 
 :tada: This release contains work from a new contributor! :tada:
