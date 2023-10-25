@@ -1,6 +1,7 @@
 Flask
 SQLAlchemy
 gunicorn
+requests
 
 PyMySQL
 coloredlogs
