@@ -1,3 +1,15 @@
+# v0.0.6 (Thu Oct 26 2023)
+
+#### ⚠️ Pushed to `main`
+
+- return false on error ([@Croug](https://github.com/Croug))
+
+#### Authors: 1
+
+- Jordan ([@Croug](https://github.com/Croug))
+
+---
+
 # v0.0.5 (Wed Oct 25 2023)
 
 #### ⚠️ Pushed to `main`
