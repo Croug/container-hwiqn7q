@@ -20,6 +20,6 @@ def bounce():
             response.raise_for_status()  # Check if the request was successful
             return response.text  # Return the body of the response
         except requests.RequestException as e:
-            return f"An error occurred: {e}", 400  # Return an error message if the request fails
+            return "false"
     else:
         return "No URL provided", 400  # Return an error message if no URL is provided
